@@ -1,2 +1,15 @@
-_site/
-.sass-cache/
+._*
+/build
+/.bundle
+bundle
+/.cache
+.DS_Store
+.DS_Store?
+/Icon
+"Icon\r"
+.ruby-version
+/.sass
+/.sass-cache
+*.scssc
+Thumbs.db
+.Trashes
