@@ -2,7 +2,16 @@
 title: About me
 ---
 
-.welcome
-  h1 Hi, I am Watercolour Artist
-  p.doc
-    == link_to 'My Behance', 'https://www.behance.net/masala_arts'
+section#portfolio
+  .container
+    .row
+      - data.projects.each do |project|
+        .col-sm-6.col-md-4.portfolio-item
+          = link_to '#', class: 'project portfolio-link' do
+            .project-image
+              = image_tag project.cover,
+                class: 'img-responsive',
+                alt: project.name,
+                size: '280x280'
+            .project-title
+              = project.name

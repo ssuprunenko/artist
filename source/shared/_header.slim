@@ -1,0 +1,14 @@
+header#header.header
+  .navbar.navbar-default
+    .container
+      .navbar-header
+        button.navbar-toggle type="button" data-toggle="collapse" data-target=".navbar-collapse"
+          span.icon-bar
+          span.icon-bar
+          span.icon-bar
+        = link_to 'Artist', '/', class: 'navbar-brand'
+      div.navbar-collapse.collapse
+        ul.nav.navbar-nav.navbar-right
+          li= link_to 'Work', '/work'
+          li= link_to 'About', '/about'
+          li= link_to 'Contact', '/contact'
