@@ -441,7 +441,6 @@ a.projectsubtitle:active {color: #6a6a6a; text-decoration: none; }
 .projectsrollover img {
     width: 100%;
     padding: 0;
-  filter: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/></filter></svg>#grayscalerayscale");
   filter: gray;
   -webkit-filter: saturate(85%);
   -webkit-transform: translateZ(0);
@@ -1429,32 +1428,20 @@ filter: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><fi
 */
 
 
-
-@font-face {
-    font-family: 'weather';
-    src: url('http://www.strohlsf.com/content/images/weatherfont/artill_clean_icons-webfont.eot');
-    src: url('http://www.strohlsf.com/content/images/weatherfont/artill_clean_icons-webfont.eot?#iefix') format('embedded-opentype'),
-         url('http://www.strohlsf.com/content/images/weatherfont/artill_clean_icons-webfont.woff') format('woff'),
-         url('http://www.strohlsf.com/content/images/weatherfont/artill_clean_icons-webfont.ttf') format('truetype'),
-         url('http://www.strohlsf.com/content/images/weatherfont/artill_clean_icons-webfont.svg#artill_clean_weather_iconsRg') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-
 #weather {
 
   margin: 0px auto;
   text-transform: uppercase;
 }
 
-i {
-  color: #585858;;
-  font-family: weather;
-  font-size: 30px;
-  font-weight: normal;
-  font-style: normal;
-  line-height: 1.0;
-}
+// i {
+//   color: #585858;;
+//   // font-family: weather;
+//   font-size: 30px;
+//   font-weight: normal;
+//   font-style: normal;
+//   line-height: 1.0;
+// }
 
 .icon-0:before { content: ":"; }
 .icon-1:before { content: "p"; }
