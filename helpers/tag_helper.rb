@@ -2,7 +2,7 @@ module TagHelper
 
   # Display IcoMoon font icon
   def icon key
-    "<i class='fa fa-#{key}'></i>"
+    "<i class='icon-#{key}'></i>"
   end
 
   # URL path for blog articles

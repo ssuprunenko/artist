@@ -8,12 +8,6 @@ gem 'redcarpet'
 gem 'compass', '>= 1.0.0.alpha.19'
 gem 'sass', '>= 3.3'
 
-# Live-reloading plugin
-# gem 'middleman-livereload', '~> 3.1.0'
-
-# For faster file watcher updates on Windows:
-# gem 'wdm', '~> 0.1.0', :platforms => [:mswin, :mingw]
-
 gem 'middleman-minify-html'
 
 gem 'middleman-deploy'
@@ -23,4 +17,3 @@ gem 'highline'
 
 gem 'boarding_pass', '>= 1.0.0.beta1'
 gem 'slim'
-gem 'font-awesome-middleman'

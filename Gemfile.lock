@@ -42,8 +42,6 @@ GEM
     erubis (2.7.0)
     execjs (2.6.0)
     ffi (1.9.10)
-    font-awesome-middleman (4.3.0)
-      middleman-core (~> 3.0)
     haml (4.0.7)
       tilt
     highline (1.7.7)
@@ -156,7 +154,6 @@ DEPENDENCIES
   boarding_pass (>= 1.0.0.beta1)
   builder
   compass (>= 1.0.0.alpha.19)
-  font-awesome-middleman
   highline
   middleman (>= 3.3)
   middleman-blog

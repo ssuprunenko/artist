@@ -122,7 +122,6 @@ set :fonts_dir,  'fonts'
 configure :build do
   # For example, change the Compass output style for deployment
   activate :minify_css,
-            ignore: ['fonts', 'stylesheets/cloud'],
             inline: true
 
   # Minify Javascript on build
@@ -134,7 +133,7 @@ configure :build do
             compressor: uglifier
 
   # Enable cache buster
-  activate :asset_hash, ignore: [%r{^fonts/cloud}]
+  activate :asset_hash
 
   activate :minify_html
   activate :gzip
