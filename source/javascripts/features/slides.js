@@ -8,7 +8,7 @@
       dots: true,
       speed: 400,
       fade: false,
-      arrows: true,
+      arrows: false,
       draggable: true,
       autoplay: false,
       autoplaySpeed: 3000,
