@@ -1,0 +1,1 @@
+!function(){function t(t){return t}var n="data-random-projects";window.pageReady(function(){$("["+n+"]").each(function(){var e=$(this),a=_.parseInt(e.attr(n)),r=e.attr("data-current-entry"),o=$("[data-template-projects]").html();a>0&&"undefined"!=typeof o&&(e.empty(),$.getJSON("/projects.json",function(n){window.asyncEntryRenderer(n,a,o,t,e,r)}))})})}();
