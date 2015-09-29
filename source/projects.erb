@@ -1,0 +1,28 @@
+---
+title: "Projects"
+long_title: "Web Design and Web Development Case Studies"
+tagline: "We partner with smart businesses seeking forward-thinking solutions to help them achieve their goals."
+---
+
+<div class="b-section--basic-header">
+  <h1>
+    Projects
+  </h1>
+  <h2>
+    <%= current_page.data.tagline %>
+  </h2>
+</div>
+
+<section class="s-projects">
+  <% projects = [
+      "Broccoli"
+  ] %>
+  <% projects.each do |project| %>
+    <%= component "project-preview",
+          item: find_project_by_title(project) %>
+  <% end %>
+</section>
+
+<%= partial "partials/cta_section", locals: {
+      text: "Let's create a groundbreaking website or product experience together."
+} %>

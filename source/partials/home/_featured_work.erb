@@ -1,0 +1,39 @@
+<%# Home > Featured Work %>
+<section class="b-page s-home-projects" id="recent-work">
+  <div class="b-section">
+    <header>
+      <h1 class="section-title">Featured Work</h1>
+    </header>
+    <div class="s-home-projects__items">
+      <% project_titles = [
+          "Broccoli"
+      ] %>
+      <% project_titles.each_with_index do |title, index| %>
+
+        <% project = find_project_by_title(title) %>
+
+        <% content = capture do %>
+          <a href="<%= project.url %>">
+            <!-- <%= project_logo({ class: "image-fullwidth" }, project) %> -->
+            <h1><%= project.title %></h1>
+          </a>
+        <% end %>
+
+        <% styles = project.data.color ?
+                      "background-color:#{project.data.color}" : "" %>
+
+        <%= macro_basic_card(
+              el: "article",
+              styles: styles,
+              link: project.url,
+              link_themes: "",
+              image: page_image(project),
+        ) { content } %>
+
+      <% end %>
+    </div>
+    <a href="<%= data.urls.work %>" class="b-pagination-btn">
+      View All Work &rarr;
+    </a>
+  </div>
+</section>

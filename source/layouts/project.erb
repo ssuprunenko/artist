@@ -1,0 +1,51 @@
+<% wrap_layout :base do %>
+  <% color = current_page.data.color %>
+  <% if color %>
+    <style>
+      .b-text p a,
+      .b-text p a:focus,
+      .b-text p a:visited {
+        border-bottom-color: <%= color %>;
+      }
+      .b-text p a:hover {
+        color: <%= color %>;
+      }
+      .btn,
+      .btn:focus,
+      .btn:visited {
+        border-color: <%= color %>;
+        color: <%= color %>;
+      }
+      .btn:hover,
+      .btn:active {
+        border-color: <%= color %>;
+        background-color: <%= color %>;
+        color: #fff;
+      }
+      .btn.animate-faux-progress:after {
+        background: <%= color %>;
+      }
+    </style>
+  <% end %>
+
+  <% hero = capture do %>
+    <h1><%= current_page.data.title %></h1>
+    <h2 class="title--subheading"><%= current_page.data.tagline %></h2>
+  <% end %>
+  <%= macro_hero(
+      image: asset_url(project_bg_src),
+      theme: "theme--dark"
+    ) { hero } %>
+
+  <div class="s-project">
+    <%= yield %>
+
+    <%# Random case studies (async) %>
+    <div class="s-projects theme--async"
+          data-current-entry="<%= current_page.url %>"
+          data-random-projects="4">
+      <%= partial "templates/project_boxes" %>
+    </div>
+  </div>
+
+<% end %>

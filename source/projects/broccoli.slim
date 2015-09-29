@@ -1,0 +1,33 @@
+---
+title: Broccoli
+date: 2015-03-19 10:00
+cover_header: true
+tagline: Some of illustrations from Alexander Viazmensky's workshop
+color: "#77a982"
+website_url: https://www.behance.net/gallery/24626777/Vegetables-illustrations
+---
+
+/ Text
+= text_block do
+  p
+    | В конце февраля 2015 года замечательный питерский художник <a href="http://lectoroom.ru/profile/show/id/54e31f93d1f7a3e121459e2c" target="_blank">Александр Вязьменский</a> проводил свой очередной мастер-класс по ботанической живописи в пространстве "Перспектива". Основной задачей было научиться максимально реалистично изображать ботанику.
+
+  p
+    | Сначала мы рисовали цветные листья и трутовики, но потом мне захотелось бросить себе вызов и выбрать кое-что посложнее.
+
+/ Split text + image – text on left (the default side)
+= split_block image: project_image_path('broccoli-1.jpg'), background: current_page.data.color, color: '#fff'
+  p Брокколи достаточно сложна для ботанической живописи. Никто кроме Александра не верил, что у меня получится.
+
+= text_block do
+  p We brought more content to the home page so that visitors would become more aware of the wealth of knowledge that existed on the site. We also worked with the team to streamline all of the navigation and content to present a much more intuitive and meaningful experience.
+
+/ Split text + image – text on right
+= split_block image: project_image_path('broccoli-2.jpg'), background: current_page.data.color, color: '#fff', text_side: "right"
+  p The redesign took advantage of modern web technologies to create a responsive experience that could adapt to browser sizes on a multitude of devices.
+
+= text_block do
+  p We brought more content to the home page so that visitors would become more aware of the wealth of knowledge that existed on the site. We also worked with the team to streamline all of the navigation and content to present a much more intuitive and meaningful experience.
+
+/ Slideshow
+= project_slideshow %w(broccoli-slide-1 broccoli-slide-2)

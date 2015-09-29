@@ -1,0 +1,13 @@
+<% btn  = btn  || 'btn' %>
+<% id   = id   || nil %>
+<% text = text || 'Start a Project' %>
+
+<a href="<%= data.urls.work_with_us %>"
+    class="<%= btn %>"
+    <% if id %>
+      id="<%= id %>"
+    <% end %>
+    target="_blank"
+  >
+  <%= text %>
+</a>

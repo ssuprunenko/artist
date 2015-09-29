@@ -1,0 +1,10 @@
+<%# Home > Welcome %>
+
+<% hero = capture do %>
+  <h1>Let&rsquo;s get started!</h1>
+  <h2 class="title--subheading">Just a few questions to jump-start your project.</h2>
+<% end %>
+<%= macro_hero(
+    image: asset_url("images/backgrounds/bg-apple.jpg"),
+    theme: "theme--dark"
+  ) { hero } %>

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <%= partial "layouts/includes/seo_meta" %>
+
+  <meta name="viewport" content="initial-scale=1.0, user-scalable=no, maximum-scale=1.0">
+  <link rel="publisher" href="https://plus.google.com/106788184738626290238">
+
+  <meta name="theme-color" content="#14191f">
+
+  <%# Stylesheets %>
+  <%= stylesheet_link_tag "main" %>
+
+  <%# Modernizr %>
+  <%= javascript_include_tag  "modernizr" %>
+
+  <%# Google Analytics %>
+  <% if data.site.google_analytics_id && data.site.google_analytics_domain %>
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', '<%= data.site.google_analytics_id %>', 'auto');
+      ga('send', 'pageview', {
+        'page': location.pathname + location.search  + location.hash
+      });
+    </script>
+  <% end %>
+</head>
+
+<body>
+  <div id="content">
+    <%= partial "layouts/includes/header" %>
+    <div class="page-content" id="welcome">
+      <%= yield %>
+    </div>
+    <%= partial "layouts/includes/footer" %>
+    <% if content_for? :post_footer %>
+      <%= yield_content :post_footer %>
+    <% end %>
+    <div class="b-menu-body-overlay"></div>
+  </div>
+
+  <%= partial "templates/posts_boxes" %>
+
+  <%# JavaScripts %>
+  <% jquery = asset_url("javascripts/vendor/jquery-1.11.2.min.js") %>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="<%= jquery %>"><\/script>')</script>
+  <%= javascript_include_tag  "main" %>
+</body>
+</html>

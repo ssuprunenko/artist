@@ -1,0 +1,17 @@
+<footer id="footer" class="s-footer">
+  <ul class="social-icons-list s-footer__social">
+    <%= partial "components/social-icons" %>
+  </ul>
+  <p class="s-footer__copyright">
+    © <%= Time.now.year %> Anna Suprunenko
+  </p>
+</footer>
+
+<nav id="supplementary-nav" class="s-footer-nav">
+  <ul>
+    <li class="top-row"><a href="/#welcome">Home</a></li>
+    <li class="top-row"><a href="<%= data.urls.work %>">Work</a></li>
+    <!-- <li><a href="<%= data.urls.blog %>">Blog</a></li> -->
+    <li><a href="#menu" data-toggle-nav>Contact</a></li>
+  </ul>
+</nav>

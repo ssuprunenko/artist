@@ -1,0 +1,28 @@
+<%# Home > Team %>
+<section class="s-team" id="about">
+  <div class="b-section">
+    <header>
+      <h1 class="section-title">About Me</h1>
+    </header>
+    <div class="l-constrained-medium">
+      <div class="s-team__photos">
+        <% [ find_team_member_by_name("Anna Suprunenko") ].each do |member| %>
+          <article id="<%= member.slug %>">
+            <a href="">
+              <img src="<%= team_member_avatar_path(member) %>"
+                   alt="<%= member.name %>, a <%= member.job_title %> at <%= data.site.title %>"
+                   class="image-circle pulse-grey-to-pink">
+            </a>
+          </article>
+        <% end %>
+      </div>
+      <h2 class="s-team__based">Anna Suprunenko</h2>
+      <div class="s-team__about">
+        <p>Operating out of the Wicker Park neighborhood and serving clients globally, we are a small team of two brothers who are passionate about helping our partners grow their business. We strategically create engaging user experiences &amp; functional products through a collaborative process with businesses large and small. We look forward to working with you on your next project.</p>
+      </div>
+      <div class="s-team__btn">
+        <%= component "cta-button", id: "cta-team" %>
+      </div>
+    </div>
+  </div>
+</section>

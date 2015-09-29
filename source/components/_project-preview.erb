@@ -1,0 +1,26 @@
+<%#
+  item -- project article
+%>
+
+<article class="b-project-preview" id="project-<%= item.slug %>">
+  <% color = rgba (item.data.color || data.colors.black), 0.7 %>
+  <a
+    href="<%= item.url %>"
+    style="
+      background-image: url('<%= project_bg_path(item) %>');
+      background-color: rgba(<%= color.rgba.join(",") %>);
+    ">
+    <div
+      class="content-wrap"
+      data-wow-delay="0.3s"
+      data-wow-offset="100">
+      <div class="content">
+        <div class="logo__project">
+          <!-- <%= project_logo({}, item) %> -->
+          <h1><%= item.data.title %></h1>
+        </div>
+        <h2><%= item.data.tagline %></h2>
+      </div>
+    </div>
+  </a>
+</article>

@@ -1,0 +1,4376 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Алекс",
+				"Александра"
+			],
+			[
+				"ботан",
+				"ботанической"
+			],
+			[
+				"pro",
+				"projects	(_featured_work.erb)"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"soc",
+				"social	(custom.scss)"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"link",
+				"linkedin"
+			],
+			[
+				"last",
+				"last_name"
+			],
+			[
+				"prese",
+				"present	(devise.rb)"
+			],
+			[
+				"pho",
+				"photos"
+			],
+			[
+				"bui",
+				"build_photos"
+			],
+			[
+				"phot",
+				"photos	(new.html.slim)"
+			],
+			[
+				"photo",
+				"photos_ids"
+			],
+			[
+				"acc",
+				"account_type"
+			],
+			[
+				"post",
+				"post_expenses"
+			],
+			[
+				"cred",
+				"credit_accounts	(entries_controller.rb)"
+			],
+			[
+				"acco",
+				"account	(entries_controller.rb)"
+			],
+			[
+				"pos",
+				"post_expense"
+			],
+			[
+				"ret",
+				"return	(journals.coffee)"
+			],
+			[
+				"res",
+				"resource_info"
+			],
+			[
+				"prop",
+				"property_id"
+			],
+			[
+				"read",
+				"readonly"
+			],
+			[
+				"accs",
+				"accounts_payable	(account.rb)"
+			],
+			[
+				"Exp",
+				"Expense	(seeds.rb)"
+			],
+			[
+				"w",
+				"when	when …"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"fla",
+				"flash_messages	(application.html.slim)"
+			],
+			[
+				"new",
+				"new_entry_path	(property_journals_controller.rb)"
+			],
+			[
+				"jou",
+				"journal"
+			],
+			[
+				"deve",
+				"development	(.gitignore)"
+			],
+			[
+				"ac",
+				"accounts"
+			],
+			[
+				"thum",
+				"thumb	(photo.rb)"
+			],
+			[
+				"th",
+				"thumb	(photo.rb)"
+			],
+			[
+				"image",
+				"image_tag"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"vali",
+				"validates	(user.rb)"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"html",
+				"html_safe"
+			],
+			[
+				"categ",
+				"categories"
+			],
+			[
+				"conten",
+				"content_tag"
+			],
+			[
+				"user",
+				"username	(edit.html.erb)"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"fea",
+				"features"
+			],
+			[
+				"mic",
+				"micropost_form"
+			],
+			[
+				"ver",
+				"verified"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"pato",
+				"padding-bottom"
+			],
+			[
+				"mar-",
+				"margin-left"
+			],
+			[
+				"img",
+				"img_class	(users_helper.rb)"
+			],
+			[
+				"gra",
+				"gravatar_for"
+			],
+			[
+				"c",
+				"container"
+			],
+			[
+				"wi",
+				"width	(custom.scss)"
+			],
+			[
+				"anim",
+				"animate	(landing2.html)"
+			],
+			[
+				"curren",
+				"current_user"
+			],
+			[
+				"cur",
+				"current_user"
+			],
+			[
+				"conta",
+				"contact_path"
+			],
+			[
+				"wrap",
+				"wrap_tag	(_subtabs.slim)"
+			],
+			[
+				"boo",
+				"bootstrap3"
+			],
+			[
+				"inp",
+				"inputs"
+			],
+			[
+				"str",
+				"street_address	(place.rb)"
+			],
+			[
+				"Prop",
+				"PropertyGroup	(property_group.rb)"
+			],
+			[
+				"send",
+				"send_invitation	(tenant_mailer.rb)"
+			],
+			[
+				"song",
+				"songtrast"
+			],
+			[
+				"cat",
+				"categories	(_listing.slim)"
+			],
+			[
+				"Cate",
+				"Category	(listing-list.html)"
+			],
+			[
+				"S",
+				"System	(seeds.rb)"
+			],
+			[
+				"load",
+				"loading"
+			],
+			[
+				"pla",
+				"places	(places_controller.rb)"
+			],
+			[
+				"ope",
+				"opening_hours_from"
+			],
+			[
+				"er",
+				"error"
+			],
+			[
+				"lin",
+				"link_to"
+			],
+			[
+				"des",
+				"destroy	(properties_controller.rb)"
+			],
+			[
+				"content",
+				"content_tag	(banks_helper.rb)"
+			],
+			[
+				"req",
+				"required	(property_decorator.rb)"
+			],
+			[
+				"bank",
+				"bank_editable"
+			],
+			[
+				"ban",
+				"bank_editable"
+			],
+			[
+				"emp",
+				"empty	(_new_modal.slim)"
+			],
+			[
+				"Ass",
+				"Asset"
+			],
+			[
+				"Pl",
+				"Plutus"
+			],
+			[
+				"acct",
+				"accounting"
+			],
+			[
+				"ren",
+				"render	(properties_controller.rb)"
+			],
+			[
+				"ht",
+				"html	(properties_controller.rb)"
+			],
+			[
+				"respo",
+				"respond_to	(properties_controller.rb)"
+			],
+			[
+				"Pluu",
+				"Plutus::Asset	(property.rb)"
+			],
+			[
+				"err",
+				"error_msgs"
+			],
+			[
+				"Plutu",
+				"Plutus::Asset	(user.rb)"
+			],
+			[
+				"deco",
+				"decorate_property"
+			],
+			[
+				"stat",
+				"status	(x-editable.yml)"
+			],
+			[
+				"form",
+				"format"
+			],
+			[
+				"openn",
+				"opening_hours	(place.rb)"
+			],
+			[
+				"open",
+				"opening_hours"
+			],
+			[
+				"hours",
+				"hours_from	(places_helper.rb)"
+			],
+			[
+				"opening",
+				"opening_hours	(place.rb)"
+			],
+			[
+				"web",
+				"website"
+			],
+			[
+				"phone_",
+				"phone_number	(place.rb)"
+			],
+			[
+				"st",
+				"state"
+			],
+			[
+				"usr",
+				"user_signed_in"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"foll",
+				"follower"
+			],
+			[
+				"pass",
+				"password_digest	(user.rb)"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"upd",
+				"updated_at	(user.rb)"
+			],
+			[
+				"crea",
+				"created_at	(_micropost.html.erb)"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"admn",
+				"admin_user_path	(user.rb)"
+			],
+			[
+				"selec",
+				"selectable_column	(user.rb)"
+			],
+			[
+				"micro",
+				"microposts	(routes.rb)"
+			],
+			[
+				"repo",
+				"repost_id	(micropost.rb)"
+			],
+			[
+				"trac",
+				"track_id	(micropost.rb)"
+			],
+			[
+				"sort",
+				"sorting"
+			],
+			[
+				"up",
+				"updateSelects"
+			],
+			[
+				"sele",
+				"selectpicker	(style.css)"
+			],
+			[
+				"pl",
+				"places"
+			],
+			[
+				"butt",
+				"buttons	(listing-grid.html)"
+			],
+			[
+				"foo",
+				"footer	(listing-grid.html)"
+			],
+			[
+				"pr",
+				"properties	(index.html.slim)"
+			],
+			[
+				"vac",
+				"vacancy"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"gr",
+				"group_name"
+			],
+			[
+				"rep",
+				"report"
+			],
+			[
+				"gro",
+				"group_y"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"par",
+				"parse_data"
+			],
+			[
+				"Arr",
+				"Array"
+			],
+			[
+				"parse_",
+				"parse_cell"
+			],
+			[
+				"parse",
+				"parse_section"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"Ar",
+				"Array"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "source/projects/broccoli.slim",
+			"settings":
+			{
+				"buffer_size": 1994,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/partials/home/_team.erb",
+			"settings":
+			{
+				"buffer_size": 1288,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/layouts/includes/_footer.erb",
+			"settings":
+			{
+				"buffer_size": 556,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/layouts/base.erb",
+			"settings":
+			{
+				"buffer_size": 2007,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/index.erb",
+			"settings":
+			{
+				"buffer_size": 245,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/partials/home/_welcome.erb",
+			"settings":
+			{
+				"buffer_size": 293,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/javascripts/main.js",
+			"settings":
+			{
+				"buffer_size": 514,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "data/urls.yml",
+			"settings":
+			{
+				"buffer_size": 416,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 205 files for \"Home\"\n\n/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/artist.sublime-workspace:\n  577  		},\n  578  		{\n  579: 			\"file\": \"source/partials/home/_welcome.erb\",\n  580  			\"settings\":\n  581  			{\n  ...\n 1170  		\"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/components/_project-preview.erb\",\n 1171  		\"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/helpers/project_helper.rb\",\n 1172: 		\"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/partials/home/_team.erb\",\n 1173  		\"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/stylesheets/main.scss\",\n 1174  		\"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/helpers/page_helper.rb\",\n 1175: 		\"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/partials/home/_featured_work.erb\",\n 1176  		\"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/projects.json.erb\",\n 1177  		\"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/artist.sublime-workspace\",\n ....\n 1204  		\"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/layouts/blog-post.erb\",\n 1205  		\"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/stylesheets/settings/_typography.scss\",\n 1206: 		\"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/partials/home/_welcome.erb\",\n 1207  		\"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/templates/_posts_boxes.erb\",\n 1208  		\"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/case-studies.erb\",\n ....\n 1214  		\"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/layouts/case-study.erb\",\n 1215  		\"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/components/_cta-button.erb\",\n 1216: 		\"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/stylesheets/sections/home/_projects.scss\",\n 1217: 		\"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/stylesheets/sections/home/_team.scss\",\n 1218  		\"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/index.erb\",\n 1219  		\"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/macros/_hero.erb\",\n ....\n 1225  		\"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/Gemfile.lock\",\n 1226  		\"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/data/site.yml\",\n 1227: 		\"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/partials/home/_services.erb\",\n 1228  		\"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/humans.txt\",\n 1229  		\"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/ron/bookkeeper/app/models/user.rb\",\n ....\n 1242  		\"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/CNAME\",\n 1243  		\"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/.ruby-version\",\n 1244: 		\"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/homeworkharbour/hh/config/opusheros.conf\",\n 1245  		\"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Itamar/dealflow/vendor/assets/stylesheets/styles.css\",\n 1246  		\"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/xavier/quick_quote/README.md\",\n ....\n 1354  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/xavier/quick_quote\",\n 1355  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/\",\n 1356: 			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/homeworkharbour/hh\",\n 1357  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/ron/bookkeeper\",\n 1358  			\"/Users/sergey/Documents/Coding/whale/whale-api\",\n ....\n 1365  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/\",\n 1366  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/tataronrails/Moscow_stairs\",\n 1367: 			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/homeworkharbour/hh\",\n 1368  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/\",\n 1369: 			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/homeworkharbour/hh\",\n 1370: 			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/\",\n 1371  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/\",\n 1372  			\"/Users/sergey/Documents/Coding/whale/whale-api\",\n ....\n 1375  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/\",\n 1376  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/mathias/gratisdeal/\",\n 1377: 			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/\",\n 1378  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/mathias/gratisdeal/\",\n 1379  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/\",\n ....\n 1382  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/Search_engine\",\n 1383  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/boxofficemetrics/metrics-metadata-app\",\n 1384: 			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/\",\n 1385  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/tataronrails/Moscow_stairs\",\n 1386  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/boxofficemetrics/metrics-metadata-app\",\n 1387: 			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/\",\n 1388  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/\",\n 1389: 			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/\",\n 1390  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/\",\n 1391: 			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/\",\n 1392  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/\",\n 1393: 			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/\",\n 1394  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/\",\n 1395: 			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/\",\n 1396  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/\",\n 1397: 			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/\",\n 1398  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/prenticeville\",\n 1399: 			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/\",\n 1400  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/Search_engine\",\n 1401: 			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/\",\n 1402  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/\",\n 1403: 			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/\",\n 1404  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/\",\n 1405: 			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/\",\n 1406  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/liveseasonal/prelaunchr\",\n 1407  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/tataronrails/Moscow_stairs\",\n ....\n 1409  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/tataronrails/Moscow_stairs\",\n 1410  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/\",\n 1411: 			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/\",\n 1412  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/\",\n 1413  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/tataronrails/Moscow_stairs\",\n 1414  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/\",\n 1415: 			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/app/views/commontator\",\n 1416: 			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/app/views/homeworks\",\n 1417: 			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/app/assets/stylesheets/homework\",\n 1418: 			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh\",\n 1419  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/\",\n 1420: 			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh\",\n 1421  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/\",\n 1422  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/,/Users/sergey/Dropbox/Coding/ruby-on-rails/examples/jquery-fileupload-rails-paperclip-example\",\n ....\n 1426  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/liveseasonal/prelaunchr\",\n 1427  			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/\",\n 1428: 			\"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh\"\n 1429  		]\n 1430  	},\n ....\n 1485  			\"e49d\",\n 1486  			\"def icon\",\n 1487: 			\"s-home-projects\",\n 1488  			\".s-team__photos\",\n 1489  			\".s-team__photos article\",\n 1490  			\".s-team__photos article:first-child\",\n 1491: 			\"s-home-projects\",\n 1492  			\"b-hero-image__content\",\n 1493  			\"b-hero-image image--bg-holder\",\n ....\n 2375  				{\n 2376  					\"buffer\": 7,\n 2377: 					\"file\": \"source/partials/home/_welcome.erb\",\n 2378  					\"semi_transient\": false,\n 2379  					\"settings\":\n ....\n 2924  			[\n 2925  				\"_welcom\",\n 2926: 				\"lacroixdesign.net/source/partials/home/_welcome.erb\"\n 2927  			],\n 2928  			[\n ....\n 2936  			[\n 2937  				\"_tema\",\n 2938: 				\"lacroixdesign.net/source/partials/home/_team.erb\"\n 2939  			],\n 2940  			[\n ....\n 2948  			[\n 2949  				\"_feat\",\n 2950: 				\"lacroixdesign.net/source/partials/home/_featured_work.erb\"\n 2951  			],\n 2952  			[\n\n/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/data/urls.yml:\n    1: home: \"/#welcome\"\n    2  work: \"/projects\"\n    3  blog: \"/blog\"\n\n/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/404.html.erb:\n   15      <div class=\"b-text\">\n   16        <p>Uh oh, the content you were looking for could not be found.</p>\n   17:       <p>You can <a href=\"/\">return home</a> or use the <a href=\"#header\" data-toggle-nav>nav menu</a>.</p>\n   18      </div>\n   19    </div>\n\n/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/index.erb:\n    5  \n    6  <%# Welcome %>\n    7: <%= partial \"partials/home/welcome\" %>\n    8  <%# Featured Work %>\n    9: <%= partial \"partials/home/featured_work\" %>\n   10  <%# About Me %>\n   11: <%= partial \"partials/home/team\" %>\n   12  \n\n/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/layouts/includes/_footer.erb:\n   10  <nav id=\"supplementary-nav\" class=\"s-footer-nav\">\n   11    <ul>\n   12:     <li class=\"top-row\"><a href=\"/#welcome\">Home</a></li>\n   13      <li class=\"top-row\"><a href=\"<%= data.urls.work %>\">Work</a></li>\n   14      <!-- <li><a href=\"<%= data.urls.blog %>\">Blog</a></li> -->\n\n/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/layouts/includes/_header.erb:\n   55  <nav id=\"menu\" class=\"b-menu\" role=\"navigation\">\n   56    <ul class=\"b-menu-list\">\n   57:     <li><a href=\"/#welcome\">Home</a></li>\n   58      <%= partial \"layouts/includes/nav_items\" %>\n   59    </ul>\n\n/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/layouts/includes/_nav_items.erb:\n    1: <li><a href=\"<%= data.urls.home %>\">Home</a></li>\n    2  <li><a href=\"<%= data.urls.work %>\">Work</a></li>\n    3  <!-- <li><a href=\"<%= data.urls.services %>\">Services</a></li> -->\n\n/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/partials/home/_featured_work.erb:\n    1: <%# Home > Featured Work %>\n    2: <section class=\"b-page s-home-projects\" id=\"recent-work\">\n    3    <div class=\"b-section\">\n    4      <header>\n    5        <h1 class=\"section-title\">Featured Work</h1>\n    6      </header>\n    7:     <div class=\"s-home-projects__items\">\n    8        <% project_titles = [\n    9            \"Broccoli\"\n\n/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/partials/home/_team.erb:\n    1: <%# Home > Team %>\n    2  <section class=\"s-team\" id=\"about\">\n    3    <div class=\"b-section\">\n\n/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/partials/home/_welcome.erb:\n    1: <%# Home > Welcome %>\n    2  \n    3  <% hero = capture do %>\n\n/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/projects/broccoli.slim:\n   21  \n   22  = text_block do\n   23:   p We brought more content to the home page so that visitors would become more aware of the wealth of knowledge that existed on the site. We also worked with the team to streamline all of the navigation and content to present a much more intuitive and meaningful experience.\n   24  \n   25  / Split text + image – text on right\n   ..\n   28  \n   29  = text_block do\n   30:   p We brought more content to the home page so that visitors would become more aware of the wealth of knowledge that existed on the site. We also worked with the team to streamline all of the navigation and content to present a much more intuitive and meaningful experience.\n   31  \n   32  / Slideshow\n\n/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/stylesheets/main.scss:\n   63  @import 'sections/footer/main';\n   64  @import 'sections/footer/nav';\n   65: @import 'sections/home/welcome';\n   66: @import 'sections/home/projects';\n   67: @import 'sections/home/services';\n   68: @import 'sections/home/team';\n   69  @import 'sections/projects/index';\n   70  @import 'sections/projects/entry';\n\n/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/stylesheets/sections/home/_projects.scss:\n    1  @import \"blocks/containers\";\n    2  \n    3: .s-home-projects {\n    4    text-align: center;\n    5    padding-top: 40px;\n    .\n   13      margin: 0 auto;\n   14    }\n   15: } // .s-home-projects\n   16  \n   17: .s-home-projects__items {\n   18    $item: '.b-basic-card';\n   19    $content: '.b-basic-card__content';\n   ..\n   80      }\n   81    } // .flexbox &\n   82: } // .s-home-projects__items\n   83  \n\n/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/stylesheets/sections/home/_services.scss:\n    1: $home-services--breakpoint: 700px;\n    2  \n    3  .s-services {\n    4    padding: 3em $page-gutter;\n    5:   background: image-url('backgrounds/home-welcome.jpg') fixed center;\n    6    -webkit-background-size: cover;\n    7    background-size: cover;\n    .\n   20    }\n   21  \n   22:   @include media-ie($home-services--breakpoint) {\n   23      padding-top: 6em;\n   24      padding-bottom: 6em;\n   ..\n   41    }\n   42  \n   43:   @include media-ie($home-services--breakpoint) {\n   44      @include row;\n   45      @include display(flex);\n\n/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/stylesheets/sections/home/_welcome.scss:\n    1  @mixin welcome-section-layout {\n    2:   .s-home-welcome__content {\n    3      padding: 4em + $header-offset 0 7em;\n    4    }\n    .\n    9  } // @mixin welcome-section-layout\n   10  \n   11: .s-home-welcome {\n   12    position: relative;\n   13    overflow: hidden;\n   ..\n   26    }\n   27  \n   28:   .s-home-welcome__content {\n   29      position: relative;\n   30      padding: 2em + $header-offset 0 4em;\n   ..\n   60  \n   61    @include media(min-width 330px min-height 450px) {\n   62:     .s-home-welcome__content { padding: 3em + $header-offset 0 5em; }\n   63    }\n   64  \n   ..\n   70      @include welcome-section-layout;\n   71    }\n   72: } // .s-home-welcome\n   73  \n\n72 matches across 15 files\n\n\nSearching 205 files for \"b-menu-list\"\n\n/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/layouts/includes/_header.erb:\n   54  \n   55  <nav id=\"menu\" class=\"b-menu\" role=\"navigation\">\n   56:   <ul class=\"b-menu-list\">\n   57      <li><a href=\"/#welcome\">Home</a></li>\n   58      <%= partial \"layouts/includes/nav_items\" %>\n\n/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/stylesheets/blocks/_menu.scss:\n  176   */\n  177  \n  178: .b-menu-list {\n  179    width: $nav-menu-width;\n  180    counter-reset: section;\n  ...\n  211      a { padding: 0.75em 1em 0.75em 0.75em; }\n  212    }\n  213: } // .b-menu-list\n  214  \n  215  /*\n  ...\n  282  } // .b-menu-phone\n  283  \n  284: .b-menu-list li,\n  285  .b-menu-social,\n  286  .b-menu-email,\n\n4 matches across 2 files\n\n\nSearching 321 files for \"deploy\"\n\n/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/artist.sublime-workspace:\n 1254  		\"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Itamar/dealflow/config/environments/production.rb\",\n 1255  		\"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Itamar/dealflow/Gemfile\",\n 1256: 		\"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Itamar/dealflow/config/deploy.rb\",\n 1257  		\"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Itamar/dealflow/app/views/devise/sessions/new.html.slim\",\n 1258  		\"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Itamar/dealflow/app/views/shared/_social_buttons.slim\",\n ....\n 3032  			[\n 3033  				\"dealdepl\",\n 3034: 				\"dealflow/config/deploy.rb\"\n 3035  			],\n 3036  			[\n ....\n 3328  			[\n 3329  				\"deplo\",\n 3330: 				\"propertymgmt/config/deploy.rb\"\n 3331  			],\n 3332  			[\n ....\n 3380  			[\n 3381  				\"propdepl\",\n 3382: 				\"propertymgmt/config/deploy.rb\"\n 3383  			],\n 3384  			[\n\n/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/config.rb:\n  108  page '/feed.xml',    layout: false\n  109  \n  110: activate :deploy do |deploy|\n  111:   deploy.method = :git\n  112:   # deploy.remote = 'origin' # uses 'origin' by default\n  113:   # deploy.branch = 'gh-pages' # uses 'gh-pages' by default\n  114  end\n  115  \n  ...\n  121  # Build-specific configuration\n  122  configure :build do\n  123:   # For example, change the Compass output style for deployment\n  124    activate :minify_css,\n  125              ignore: ['fonts', 'stylesheets/cloud'],\n\n/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/Gemfile:\n   17  gem 'middleman-minify-html'\n   18  \n   19: gem 'middleman-deploy'\n   20  gem 'builder'\n   21  # gem 'middleman-syntax'\n\n/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/Gemfile.lock:\n   85        thor (>= 0.15.2, < 2.0)\n   86        tilt (~> 1.4.1, < 2.0)\n   87:     middleman-deploy (1.0.0)\n   88        middleman-core (>= 3.2)\n   89        net-sftp\n   ..\n  161    middleman (>= 3.3)\n  162    middleman-blog\n  163:   middleman-deploy\n  164    middleman-minify-html\n  165    redcarpet\n\n/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/Rakefile:\n   15  end\n   16  \n   17: desc \"Build & deploy to Github Pages\"\n   18: task :deploy do\n   19    build\n   20:   system \"middleman deploy\"\n   21  end\n   22  \n\n/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/README.md:\n    7  ```\n    8  \n    9: Deploy\n   10  \n   11  ```\n   12: bin/rake deploy\n   13  ```\n   14  \n\n18 matches across 6 files\n",
+			"settings":
+			{
+				"buffer_size": 18284,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "config.rb",
+			"settings":
+			{
+				"buffer_size": 3362,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/projects.erb",
+			"settings":
+			{
+				"buffer_size": 676,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/projects.json.erb",
+			"settings":
+			{
+				"buffer_size": 546,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/layouts/includes/_header.erb",
+			"settings":
+			{
+				"buffer_size": 1703,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Rakefile",
+			"settings":
+			{
+				"buffer_size": 1766,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "build/CNAME",
+			"settings":
+			{
+				"buffer_size": 19,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/stylesheets/sections/home/_projects.scss",
+			"settings":
+			{
+				"buffer_size": 1420,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/stylesheets/blocks/_project.scss",
+			"settings":
+			{
+				"buffer_size": 1222,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 247.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git dif",
+				"Git: Diff Current File"
+			],
+			[
+				"git l",
+				"Git: Log Current File"
+			],
+			[
+				"git lo",
+				"Git: Log Current File"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"gitdi",
+				"Git: Diff Current File"
+			],
+			[
+				"git che",
+				"Git: Checkout Current File"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"gitche",
+				"Git: Checkout Current File"
+			],
+			[
+				"it df",
+				"Git: Diff Current File"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"gitc",
+				"Git: Commit"
+			],
+			[
+				"gc",
+				"Git: Commit"
+			],
+			[
+				"git di",
+				"Git: Diff All Files"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"setshel",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"git df",
+				"Git: Diff Current File"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"git d",
+				"Git: Diff Current File"
+			],
+			[
+				"setsyhtm",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"git ce",
+				"Git: Checkout Current File"
+			],
+			[
+				"gt ",
+				"Git: Commit"
+			],
+			[
+				"gitdif",
+				"Git: Diff Current File"
+			],
+			[
+				"git che ",
+				"Git: Checkout Current File"
+			],
+			[
+				"gitco",
+				"Git: Commit"
+			],
+			[
+				"gi add",
+				"Git: Add Current File"
+			],
+			[
+				"renam",
+				"ANF: Rename File"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"gi di",
+				"Git: Diff Current File"
+			],
+			[
+				"gi",
+				"Git: Commit"
+			],
+			[
+				"gi ",
+				"Git: Commit"
+			],
+			[
+				"git cp",
+				"Git: Pull Current Branch"
+			],
+			[
+				"gt",
+				"Git: Commit"
+			],
+			[
+				"setshe",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"rename",
+				"ANF: Rename File"
+			],
+			[
+				"setsyshe",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"gti c",
+				"Git: Commit"
+			],
+			[
+				"gtco",
+				"Git: Commit"
+			],
+			[
+				"git uns",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"setsyrub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"colo",
+				"Toggle Colorcode on this view"
+			],
+			[
+				"color",
+				"Toggle Colorcode on this view"
+			],
+			[
+				"colorc",
+				"Toggle Colorcode on this view"
+			],
+			[
+				"gt c",
+				"Git: Commit"
+			],
+			[
+				"gt com",
+				"Git: Commit"
+			],
+			[
+				"git oc",
+				"Git: Commit"
+			],
+			[
+				"gitlo",
+				"Git: Log Current File"
+			],
+			[
+				"setsyhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"gt uns",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"GIT CO",
+				"Git: Commit"
+			],
+			[
+				"removepa",
+				"Package Control: Remove Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rubocop",
+				"RuboCop: Check folder of current file"
+			],
+			[
+				"removepac",
+				"Package Control: Remove Package"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"listpac",
+				"Package Control: List Packages"
+			],
+			[
+				"git ad",
+				"Git: Add Current File"
+			],
+			[
+				"git rese",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git diff",
+				"Git: Diff All Files"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"listpa",
+				"Package Control: List Packages"
+			],
+			[
+				"gt che",
+				"Git: Checkout Current File"
+			],
+			[
+				"gt co",
+				"Git: Commit"
+			],
+			[
+				"git unsta",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"che ",
+				"Git: Checkout Current File"
+			],
+			[
+				"livere",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"setsycoff",
+				"Set Syntax: CoffeeScript (Colorcode)"
+			],
+			[
+				"setsycof",
+				"Set Syntax: CoffeeScript (Colorcode)"
+			],
+			[
+				"enable",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"setsysli",
+				"Set Syntax: Ruby Slim"
+			],
+			[
+				"setssli",
+				"Set Syntax: Ruby Slim"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"git id",
+				"Git: Diff All Files"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"setsyshell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"livre",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"wo",
+				"Word Wrap: Toggle"
+			],
+			[
+				"setsyshel",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"pref",
+				"Preferences: Settings - Default"
+			],
+			[
+				"prefere",
+				"Preferences: Settings - Default"
+			],
+			[
+				"prefer",
+				"Preferences: Settings - User"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"gi che",
+				"Git: Checkout Current File"
+			],
+			[
+				"debug",
+				"Debugger: Hide debug windows"
+			],
+			[
+				"debustop",
+				"Debugger: Stop debugging"
+			],
+			[
+				"debugra",
+				"Debugger: Start debugging (Current file)"
+			],
+			[
+				"align",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment File Settings – User"
+			],
+			[
+				"git add c",
+				"Git: Add Current File"
+			],
+			[
+				"reload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"togg",
+				"View: Toggle Tabs"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"setsybet",
+				"Set Syntax: Better RSpec"
+			],
+			[
+				"setsyrspec",
+				"Set Syntax: Better RSpec"
+			],
+			[
+				"setruco",
+				"Set Syntax: Ruby (Colorcode)"
+			],
+			[
+				"setsyruby",
+				"Set Syntax: Ruby (Colorcode)"
+			],
+			[
+				"rspec: ",
+				"RSpec: open corresponding file"
+			],
+			[
+				"liverel",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"git do",
+				"Git: Diff All Files (Ignore Whitespace)"
+			],
+			[
+				"setsyr",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"remve",
+				"BracketHighlighter: Remove Brackets"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"bea",
+				"BeautifyRuby"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"oridestr",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"origdes",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"git dif cu",
+				"Git: Diff Tool Current File"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"addfole",
+				"Project: Add Folder"
+			],
+			[
+				"origde",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"setsycss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"orides",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"git add ",
+				"Git: Add Current File"
+			],
+			[
+				"ori",
+				"Origami: Unzoom Current Pane"
+			],
+			[
+				"orig",
+				"Origami: Zoom Current Pane"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 420.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/data"
+	],
+	"file_history":
+	[
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/robots.txt",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/manifest.json",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/data/site.yml",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/images/icons/consulting.png",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/data/team.yml",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/data/urls.yml",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/layouts/includes/_nav_items.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/index.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/components/_cta-button.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/partials/_new_client_form.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/stylesheets/elements/_images.scss",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/partials/home/_featured_work.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/helpers/macro_helper.rb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/stylesheets/sections/home/_projects.scss",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/stylesheets/blocks/_cards.scss",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/components/_project-preview.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/broccoli.md",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/layouts/project.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/config.rb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/stylesheets/blocks/_project.scss",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/helpers/project_helper.rb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/helpers/tag_helper.rb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/stylesheets/blocks/_heros.scss",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/partials/home/_welcome.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/projects/broccoli.slim",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/projects/the-5-love-languages.html.slim",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/components/_split-block.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/projects/broccoli.md",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/components/_hero-image.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/projects.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/partials/home/_team.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/stylesheets/main.scss",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/helpers/page_helper.rb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/projects.json.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/artist.sublime-workspace",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/projects/chicago-food-magazine.html.slim",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/projects/stargrin.slim",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/helpers/case_study_helper.rb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/templates/_case_study_boxes.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/stylesheets/sections/case-studies/_entry.scss",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/stylesheets/blocks/_case-study.scss",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/layouts/case-study1.slim",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/javascripts/features/scroll-animations.js",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/components/_case-study-preview.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/stylesheets/sections/case-studies/_index.scss",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/stylesheets/sections/_404.scss",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/start/thanks.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/start/index.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/new-client/thanks.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/404.html.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/javascripts/features/async-case-studies.js",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/new-client/index.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/Gemfile",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/components/_social-icons.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/layouts/base.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/stylesheets/sections/_header.scss",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/layouts/blog-post.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/stylesheets/settings/_typography.scss",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/templates/_posts_boxes.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/case-studies.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/blog.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/layouts/includes/_footer.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/layouts/includes/_header.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/partials/_entry_pagination.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/layouts/case-study.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/stylesheets/sections/home/_team.scss",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/macros/_hero.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/helpers/application_helper.rb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/helpers/component_helper.rb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/case-studies/stargrin.slim",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/blog/a-study-in-craft.md.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/Gemfile.lock",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/partials/home/_services.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/humans.txt",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/ron/bookkeeper/app/models/user.rb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/feed.xml.builder",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/artist/source/CNAME",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/sitemap.xml.builder",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/fonts/cloud/165421/B9784FDAEDD3AD030.css",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/fonts/cloud/165421/4C15DABBF0E804BC7.css",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/blog.json.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/blog/announcing-our-new-monthly-newsletter.md.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/blog/estaine-kickstarter-campaign.md",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/blog/example-blog-post.md.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/blog/far-from-finished.md.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/case-studies.json.erb",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/source/CNAME",
+		"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net/.ruby-version",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/homeworkharbour/hh/config/opusheros.conf",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Itamar/dealflow/vendor/assets/stylesheets/styles.css",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/xavier/quick_quote/README.md",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Itamar/dealflow/app/views/devise/registrations/new.html.slim",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Itamar/dealflow/config/dealflow.conf",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Itamar/dealflow/.env",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/ron/bookkeeper/app/views/documents/_new_folder_modal.html.slim",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Itamar/dealflow/README.md",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/nikodraca/Songtrast/app/controllers/users_controller.rb",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/nikodraca/Songtrast/Gemfile",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Itamar/dealflow/config/environments/production.rb",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Itamar/dealflow/Gemfile",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Itamar/dealflow/config/deploy.rb",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Itamar/dealflow/app/views/devise/sessions/new.html.slim",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Itamar/dealflow/app/views/shared/_social_buttons.slim",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Itamar/dealflow/app/assets/stylesheets/custom.scss",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Itamar/dealflow/.env.production",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Shamiul/eathalal/app/views/devise/sessions/new.html.slim",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Shamiul/eathalal/app/assets/stylesheets/application.scss",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Itamar/dealflow/Gemfile.lock",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Shamiul/eathalal/Gemfile",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Itamar/dealflow/app/assets/stylesheets/application.scss",
+		"/Users/sergey/.rvm/gems/ruby-2.2.2/gems/rails-assets-bootstrap-social-4.9.0/app/assets/stylesheets/bootstrap-social/bootstrap-social.scss",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Itamar/dealflow/app/views/devise/shared/_links.html.slim",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Itamar/dealflow/app/models/user.rb",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Itamar/dealflow/app/controllers/users/omniauth_callbacks_controller.rb",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Itamar/dealflow/app/helpers/application_helper.rb",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Shamiul/eathalal/app/models/user.rb",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Itamar/dealflow/config/initializers/devise.rb",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Itamar/dealflow/db/migrate/20150713115509_create_identities.rb",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Itamar/dealflow/app/views/static_pages/landing.html.slim",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Shamiul/eathalal/app/assets/javascripts/application.coffee",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Itamar/dealflow/app/assets/javascripts/custom.coffee.erb",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/xavier/quick_quote/config/initializers/devise.rb",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Shamiul/eathalal/config/initializers/devise.rb",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/xavier/quick_quote/.env.development",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Shamiul/eathalal/.env.development",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Shamiul/eathalal/db/migrate/20150525164527_create_identities.rb",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/xavier/quick_quote/Gemfile",
+		"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/xavier/quick_quote/app/controllers/users/omniauth_callbacks_controller.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 109.0,
+		"where_history":
+		[
+			"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/lacroixdesign.net",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Shamiul/eathalal",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/jeff/propertymgmt/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/nikodraca/Songtrast",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/jeff/propertymgmt/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Shamiul/eathalal",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/jeff/propertymgmt/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Shamiul/eathalal",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/jeff/propertymgmt/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/nikodraca/Songtrast",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Shamiul/eathalal",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/jeff/propertymgmt/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Shamiul/spotter",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/jeff/tenant-portal",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/jeff/propertymgmt/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/ron/bookkeeper",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Shamiul/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Shamiul/eathalal",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Shamiul/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Shamiul/eathalal",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/nikodraca/Songtrast",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Shamiul/eathalal",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Shamiul/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Shamiul/eathalal",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Shamiul/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Shamiul/eathalal",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/ron/polymer-dashboard/dashboard",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/ron/minimulcasts",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/ron/bookkeeper",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/jeff/propertymgmt/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/nikodraca/Songtrast",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Mathias",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/nikodraca/Songtrast",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/ron/bookkeeper",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/nikodraca/Songtrast",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/pronix/draft",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/ron/bookkeeper",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/jeff/propertymgmt/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/ron/minimulcasts",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/nikodraca/Songtrast",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/Shamiul/StoreFinder v1.6.5/StoreFinder/StoreFinder",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/nikodraca",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/ron/bookkeeper",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/nikodraca",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/ron/bookkeeper",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/nikodraca",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/jeff/propertymgmt/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/nikodraca",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/jeff/propertymgmt/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/jeff/propertymgmt/spec/features",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/jeff/propertymgmt",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/xavier/quick_quote",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/homeworkharbour/hh",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/ron/bookkeeper",
+			"/Users/sergey/Documents/Coding/whale/whale-api",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/",
+			"/Users/sergey/Documents/Coding/whale/whale-api",
+			"/Users/sergey/Documents/Coding/ror/something",
+			"/Users/sergey/Documents/Coding/whale/whale-api",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/",
+			"/Users/sergey/Dropbox/Coding/nodejs/annasuprunenko/artist-jekyll",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/tataronrails/Moscow_stairs",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/homeworkharbour/hh",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/homeworkharbour/hh",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/",
+			"/Users/sergey/Documents/Coding/whale/whale-api",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/",
+			"/Users/sergey/Documents/Coding/whale/whale-api",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/mathias/gratisdeal/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/mathias/gratisdeal/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/tataronrails/Moscow_stairs",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/mathias/gratisdeal/config",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/Search_engine",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/boxofficemetrics/metrics-metadata-app",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/tataronrails/Moscow_stairs",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/freelance/boxofficemetrics/metrics-metadata-app",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/prenticeville",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/Search_engine",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/liveseasonal/prelaunchr",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/tataronrails/Moscow_stairs",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/tataronrails/Moscow_stairs",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/tataronrails/Moscow_stairs",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/app/views/commontator",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/app/views/homeworks",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh/app/assets/stylesheets/homework",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/,/Users/sergey/Dropbox/Coding/ruby-on-rails/examples/jquery-fileupload-rails-paperclip-example",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/tataronrails/Moscow_stairs",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/liveseasonal/prelaunchr",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/depot/",
+			"/Users/sergey/Dropbox/Coding/ruby-on-rails/homeworkharbour/hh"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"deploy",
+			"b-menu-list",
+			"Home",
+			"linkedin",
+			"services",
+			"summary_large_image",
+			"google_plus_id",
+			"page-content",
+			"welcome",
+			"contact",
+			"about me",
+			"CASE STUDIES",
+			"Contact Information",
+			"mailto",
+			"work_with_us",
+			"Start a Project",
+			"cta-button",
+			"PROUDLY BASED IN CHICAG",
+			"macro_basic_card",
+			"b-basic-card__content",
+			"image--bg-link",
+			".s-home-projects__items .b-basic-card__content > a",
+			"b-basic-card__content",
+			".b-basic-card",
+			"s-home-projects__items",
+			"FEATURED WORK",
+			"b-project-preview",
+			"logo__project",
+			"find_project_by_title",
+			"date",
+			"def macro_hero",
+			"blog_data",
+			"article_path",
+			"projects",
+			"split_block",
+			"project_bg_path",
+			"macro_hero",
+			"project_bg_path",
+			"def hero_image",
+			"hero",
+			"b-hero-image",
+			"theme--dark",
+			"project_bg_path",
+			"cover_bg",
+			"cover-bg",
+			"\"",
+			"case-study",
+			"case_study",
+			"case_studies",
+			"addthis",
+			"case_study",
+			"case_study_slideshow",
+			"case_study_image_path",
+			"find_project_by_title",
+			"CaseStud",
+			"CaseStudy",
+			"case\\",
+			"case_",
+			"find_project_by_title",
+			"case-study",
+			"case-studies",
+			"case_studies",
+			"case_study",
+			"find_case_study_by_title",
+			"case-study-",
+			"Studies",
+			"Case",
+			"cloud.",
+			"fade",
+			"fadeInOnPageLoad",
+			"<%= icon",
+			"\"",
+			"theme--dark",
+			"theme--very-dark",
+			"Just a few questions to jump-start your proje",
+			"will-animate",
+			"b-section--basic-header",
+			"e49d",
+			"def icon",
+			"s-home-projects",
+			".s-team__photos",
+			".s-team__photos article",
+			".s-team__photos article:first-child",
+			"s-home-projects",
+			"b-hero-image__content",
+			"b-hero-image image--bg-holder",
+			"def capture",
+			"capture",
+			"welcome",
+			"s a web design, product design and ",
+			"case_study_slideshow",
+			"github",
+			"services",
+			"\"services\"",
+			"services",
+			"s-services",
+			"SERVICES",
+			"Subscribe for Inside Access",
+			"\"",
+			"#{",
+			"www.lacroixdesign.net",
+			"lacroixdesign.net",
+			"btn-lg",
+			" btn-lg",
+			"\"",
+			"owl",
+			"owl-item",
+			"owl",
+			"owl.ca",
+			"owl",
+			"item-slider",
+			"owl",
+			"initiali",
+			"owl",
+			"get_last_places",
+			"atta",
+			"\"",
+			"attachment",
+			"dropzo",
+			"galle",
+			"form#new_place",
+			"= form",
+			"attachment",
+			"drop",
+			"dropzone",
+			"drop",
+			"dropzone",
+			"click"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"project",
+			"projects",
+			"project",
+			"project_slideshow",
+			"project_image_path",
+			"project",
+			"projects",
+			"project",
+			"'",
+			"annasuprunenko.com",
+			"",
+			"'",
+			"build_last_places",
+			"'",
+			"photo",
+			"#new_place",
+			"photo",
+			"'",
+			":credit_account_id",
+			"-min.png",
+			"dealflow",
+			"\")",
+			"%(",
+			"'",
+			"index",
+			"'",
+			"shared/user_stats",
+			": '",
+			"div",
+			"'",
+			"b03434",
+			"uid",
+			"",
+			"params[:category]",
+			".bs-searchbox",
+			"new_place",
+			"'",
+			"= image_tag '",
+			"  ",
+			".bs-searchbox",
+			"",
+			"  ",
+			"tenantportal",
+			".col-sm-6",
+			"",
+			"bank",
+			"'",
+			"bank",
+			"bank.try(:name)",
+			"'",
+			"users",
+			"'",
+			":",
+			"'",
+			"custom_sign_in",
+			"",
+			"google",
+			"facebook",
+			"'",
+			"@vacancy",
+			"leasing_vacancies_path",
+			"Vacancies",
+			"leasing",
+			"vacancy",
+			"tenantportal",
+			"eathalal",
+			"'",
+			"font-url('",
+			"rows",
+			"parse_section",
+			"parse_data",
+			"parse_section",
+			"parse_data_row",
+			"parse_row",
+			"group_id",
+			"report_type",
+			"'",
+			"",
+			"object_query",
+			"kind",
+			"\"",
+			"'",
+			"micropost",
+			"compare_micropost_path",
+			"",
+			"similar_users",
+			"<%= paginate",
+			".page(",
+			".page",
+			"'",
+			"#=",
+			"'",
+			".artist",
+			".track",
+			"'",
+			"Confirmation",
+			"Sign In",
+			"'",
+			"user",
+			"'",
+			"//",
+			"gray-darker",
+			"gray-light",
+			"@relationship",
+			"'",
+			"require 'rails_helper'",
+			"songtrast",
+			"'",
+			"get",
+			"'",
+			"",
+			".",
+			"'",
+			"unit",
+			" ",
+			")",
+			"%w(",
+			"fullname",
+			"unit",
+			"vendor",
+			"'",
+			"bookkeeper",
+			"account",
+			"group",
+			"oauth_doorkeeper",
+			"id",
+			"a gr"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 9,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "source/projects/broccoli.slim",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1994,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1173,
+								1173
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"colorcode": true,
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Ruby Slim/Syntaxes/Ruby Slim.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "source/partials/home/_team.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								351,
+								351
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"colorcode": true,
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "source/layouts/includes/_footer.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 556,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								293,
+								293
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"colorcode": true,
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "source/layouts/base.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2007,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								603,
+								603
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"colorcode": true,
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "source/index.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								245,
+								245
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"colorcode": true,
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "source/partials/home/_welcome.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								59,
+								59
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"colorcode": true,
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "source/javascripts/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 514,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								241,
+								241
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"apply_syntax_touched": true,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"colorcode": true,
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "data/urls.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 416,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								416,
+								416
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"apply_syntax_touched": true,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"colorcode": true,
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18284,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										185,
+										189
+									],
+									[
+										567,
+										571
+									],
+									[
+										893,
+										897
+									],
+									[
+										1468,
+										1472
+									],
+									[
+										2047,
+										2051
+									],
+									[
+										2176,
+										2180
+									],
+									[
+										2687,
+										2691
+									],
+									[
+										3164,
+										3168
+									],
+									[
+										3637,
+										3641
+									],
+									[
+										4015,
+										4019
+									],
+									[
+										4163,
+										4167
+									],
+									[
+										4238,
+										4242
+									],
+									[
+										4592,
+										4596
+									],
+									[
+										4997,
+										5001
+									],
+									[
+										5260,
+										5264
+									],
+									[
+										5399,
+										5403
+									],
+									[
+										5538,
+										5542
+									],
+									[
+										5677,
+										5681
+									],
+									[
+										5816,
+										5820
+									],
+									[
+										5955,
+										5959
+									],
+									[
+										6101,
+										6105
+									],
+									[
+										6247,
+										6251
+									],
+									[
+										6386,
+										6390
+									],
+									[
+										6525,
+										6529
+									],
+									[
+										6916,
+										6920
+									],
+									[
+										7201,
+										7205
+									],
+									[
+										7298,
+										7302
+									],
+									[
+										7327,
+										7331
+									],
+									[
+										7393,
+										7397
+									],
+									[
+										7435,
+										7439
+									],
+									[
+										7500,
+										7504
+									],
+									[
+										7638,
+										7642
+									],
+									[
+										8076,
+										8080
+									],
+									[
+										8177,
+										8181
+									],
+									[
+										8321,
+										8325
+									],
+									[
+										8496,
+										8500
+									],
+									[
+										8663,
+										8667
+									],
+									[
+										8791,
+										8795
+									],
+									[
+										8916,
+										8920
+									],
+									[
+										9058,
+										9062
+									],
+									[
+										9368,
+										9372
+									],
+									[
+										9621,
+										9625
+									],
+									[
+										9695,
+										9699
+									],
+									[
+										9770,
+										9774
+									],
+									[
+										10021,
+										10025
+									],
+									[
+										10414,
+										10418
+									],
+									[
+										10642,
+										10646
+									],
+									[
+										10651,
+										10655
+									],
+									[
+										10918,
+										10922
+									],
+									[
+										10974,
+										10978
+									],
+									[
+										11164,
+										11168
+									],
+									[
+										11363,
+										11367
+									],
+									[
+										11570,
+										11574
+									],
+									[
+										11801,
+										11805
+									],
+									[
+										12173,
+										12177
+									],
+									[
+										12643,
+										12647
+									],
+									[
+										12683,
+										12687
+									],
+									[
+										12724,
+										12728
+									],
+									[
+										12765,
+										12769
+									],
+									[
+										13034,
+										13038
+									],
+									[
+										13166,
+										13170
+									],
+									[
+										13198,
+										13202
+									],
+									[
+										13358,
+										13362
+									],
+									[
+										13514,
+										13518
+									],
+									[
+										13657,
+										13661
+									],
+									[
+										13817,
+										13821
+									],
+									[
+										13960,
+										13964
+									],
+									[
+										14218,
+										14222
+									],
+									[
+										14367,
+										14371
+									],
+									[
+										14475,
+										14479
+									],
+									[
+										14666,
+										14670
+									],
+									[
+										14824,
+										14828
+									],
+									[
+										15104,
+										15115
+									],
+									[
+										15357,
+										15368
+									],
+									[
+										15519,
+										15530
+									],
+									[
+										15597,
+										15608
+									],
+									[
+										16105,
+										16111
+									],
+									[
+										16426,
+										16432
+									],
+									[
+										16532,
+										16538
+									],
+									[
+										16641,
+										16647
+									],
+									[
+										16825,
+										16831
+									],
+									[
+										16836,
+										16842
+									],
+									[
+										16853,
+										16859
+									],
+									[
+										16885,
+										16891
+									],
+									[
+										16948,
+										16954
+									],
+									[
+										17154,
+										17160
+									],
+									[
+										17399,
+										17405
+									],
+									[
+										17638,
+										17644
+									],
+									[
+										17789,
+										17795
+									],
+									[
+										17966,
+										17972
+									],
+									[
+										18003,
+										18009
+									],
+									[
+										18055,
+										18061
+									],
+									[
+										18189,
+										18195
+									],
+									[
+										18231,
+										18237
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								16812,
+								16812
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"apply_syntax_touched": true,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"colorcode": true,
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 3,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7351.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "config.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2522,
+								2522
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"apply_syntax_touched": true,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"colorcode": true,
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1728.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "source/projects.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 676,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								323,
+								323
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"colorcode": true,
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "source/projects.json.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 546,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19,
+								19
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"colorcode": true,
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "source/layouts/includes/_header.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1703,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1339,
+								1339
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"colorcode": true,
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 507.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "Rakefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1766,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1766,
+								1766
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"colorcode": true,
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 657.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "build/CNAME",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 19,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"apply_syntax_touched": true,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"colorcode": true,
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "source/stylesheets/sections/home/_projects.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1420,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"apply_syntax_touched": true,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"colorcode": true,
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 290.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "source/stylesheets/blocks/_project.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								271,
+								307
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"apply_syntax_touched": true,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"colorcode": true,
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 455.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 124.0
+	},
+	"output.sbt":
+	{
+		"height": 0.0
+	},
+	"output.sbt_error":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "artist.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"header",
+				"lacroixdesign.net/source/layouts/includes/_header.erb"
+			],
+			[
+				"cta-b",
+				"lacroixdesign.net/source/components/_cta-button.erb"
+			],
+			[
+				"cta",
+				"lacroixdesign.net/source/components/_cta-button.erb"
+			],
+			[
+				"conf",
+				"lacroixdesign.net/config.rb"
+			],
+			[
+				"the5",
+				"lacroixdesign.net/source/projects/the-5-love-languages.html.slim"
+			],
+			[
+				"brocc",
+				"lacroixdesign.net/source/projects/broccoli.slim"
+			],
+			[
+				"_welcom",
+				"lacroixdesign.net/source/partials/home/_welcome.erb"
+			],
+			[
+				"_hero",
+				"lacroixdesign.net/source/components/_hero-image.erb"
+			],
+			[
+				"propre",
+				"lacroixdesign.net/source/components/_project-preview.erb"
+			],
+			[
+				"_tema",
+				"lacroixdesign.net/source/partials/home/_team.erb"
+			],
+			[
+				"pagehelp",
+				"lacroixdesign.net/helpers/page_helper.rb"
+			],
+			[
+				"main",
+				"lacroixdesign.net/source/stylesheets/main.scss"
+			],
+			[
+				"_feat",
+				"lacroixdesign.net/source/partials/home/_featured_work.erb"
+			],
+			[
+				"case",
+				"lacroixdesign.net/source/components/_case-study-preview.erb"
+			],
+			[
+				"case_",
+				"lacroixdesign.net/helpers/case_study_helper.rb"
+			],
+			[
+				"con",
+				"lacroixdesign.net/config.rb"
+			],
+			[
+				"gemf",
+				"lacroixdesign.net/Gemfile"
+			],
+			[
+				"social",
+				"lacroixdesign.net/source/components/_social-icons.erb"
+			],
+			[
+				"_foo",
+				"lacroixdesign.net/source/layouts/includes/_footer.erb"
+			],
+			[
+				"starg",
+				"lacroixdesign.net/source/case-studies/stargrin.slim"
+			],
+			[
+				"lachead",
+				"lacroixdesign.net/source/layouts/includes/_header.erb"
+			],
+			[
+				"cname",
+				"artist/source/CNAME"
+			],
+			[
+				"boofold",
+				"bookkeeper/app/views/documents/_new_folder_modal.html.slim"
+			],
+			[
+				"songgem",
+				"Songtrast/Gemfile"
+			],
+			[
+				"songuserco",
+				"Songtrast/app/controllers/users_controller.rb"
+			],
+			[
+				"qqread",
+				"quick_quote/README.md"
+			],
+			[
+				"dealread",
+				"dealflow/README.md"
+			],
+			[
+				"dealenv",
+				"dealflow/.env"
+			],
+			[
+				"dealstyl",
+				"dealflow/vendor/assets/stylesheets/styles.css"
+			],
+			[
+				"opus",
+				"hh/config/opusheros.conf"
+			],
+			[
+				"dealconf",
+				"dealflow/config/dealflow.conf"
+			],
+			[
+				"dealprod",
+				"dealflow/config/environments/production.rb"
+			],
+			[
+				"dealdepl",
+				"dealflow/config/deploy.rb"
+			],
+			[
+				"dealenvpr",
+				"dealflow/.env.production"
+			],
+			[
+				"dealstyle",
+				"dealflow/vendor/assets/stylesheets/styles.css"
+			],
+			[
+				"dealregne",
+				"dealflow/app/views/devise/registrations/new.html.slim"
+			],
+			[
+				"dealsess",
+				"dealflow/app/views/devise/sessions/new.html.slim"
+			],
+			[
+				"dealappcss",
+				"dealflow/app/assets/stylesheets/application.scss"
+			],
+			[
+				"eatscss",
+				"eathalal/app/assets/stylesheets/application.scss"
+			],
+			[
+				"eatge",
+				"eathalal/Gemfile"
+			],
+			[
+				"dealgemlo",
+				"dealflow/Gemfile.lock"
+			],
+			[
+				"dealgem",
+				"dealflow/Gemfile"
+			],
+			[
+				"eatsessnew",
+				"eathalal/app/views/devise/sessions/new.html.slim"
+			],
+			[
+				"dealdevlink",
+				"dealflow/app/views/devise/shared/_links.html.slim"
+			],
+			[
+				"dealappscss",
+				"dealflow/app/assets/stylesheets/application.scss"
+			],
+			[
+				"dealge",
+				"dealflow/Gemfile"
+			],
+			[
+				"dealapphel",
+				"dealflow/app/helpers/application_helper.rb"
+			],
+			[
+				"dealcall",
+				"dealflow/app/controllers/users/omniauth_callbacks_controller.rb"
+			],
+			[
+				"dealuser",
+				"dealflow/app/models/user.rb"
+			],
+			[
+				"deallan",
+				"dealflow/app/views/static_pages/landing.html.slim"
+			],
+			[
+				"dealcoffe",
+				"dealflow/app/assets/javascripts/custom.coffee.erb"
+			],
+			[
+				"eatcoff",
+				"eathalal/app/assets/javascripts/application.coffee"
+			],
+			[
+				"omn",
+				"dealflow/app/controllers/users/omniauth_callbacks_controller.rb"
+			],
+			[
+				"dealdevis",
+				"dealflow/config/initializers/devise.rb"
+			],
+			[
+				"eatuser",
+				"eathalal/app/models/user.rb"
+			],
+			[
+				"eatdevis",
+				"eathalal/config/initializers/devise.rb"
+			],
+			[
+				"quidevs",
+				"quick_quote/config/initializers/devise.rb"
+			],
+			[
+				"quienv",
+				"quick_quote/.env.development"
+			],
+			[
+				"eatenv",
+				"eathalal/.env.development"
+			],
+			[
+				"quigem",
+				"quick_quote/Gemfile"
+			],
+			[
+				"eatgem",
+				"eathalal/Gemfile"
+			],
+			[
+				"quicall",
+				"quick_quote/app/controllers/users/omniauth_callbacks_controller.rb"
+			],
+			[
+				"dealrou",
+				"dealflow/config/routes.rb"
+			],
+			[
+				"eatrou",
+				"eathalal/config/routes.rb"
+			],
+			[
+				"eatcall",
+				"eathalal/app/controllers/users/omniauth_callbacks_controller.rb"
+			],
+			[
+				"eatiden",
+				"eathalal/app/models/identity.rb"
+			],
+			[
+				"ident",
+				"dealflow/app/models/identity.rb"
+			],
+			[
+				"creaiden",
+				"dealflow/db/migrate/20150713115509_create_identities.rb"
+			],
+			[
+				"eatstyle",
+				"eathalal/app/assets/stylesheets/style.css"
+			],
+			[
+				"eatappscss",
+				"eathalal/app/assets/stylesheets/application.scss"
+			],
+			[
+				"eatappcof",
+				"eathalal/app/assets/javascripts/application.coffee"
+			],
+			[
+				"spotowl",
+				"spotter/assets/css/owl.carousel.css"
+			],
+			[
+				"itemde",
+				"spotter/item-detail.html"
+			],
+			[
+				"placeco",
+				"eathalal/app/assets/javascripts/places.coffee"
+			],
+			[
+				"dealappjs",
+				"dealflow/app/assets/javascripts/application.js"
+			],
+			[
+				"placesho",
+				"eathalal/app/views/places/show.html.slim"
+			],
+			[
+				"itemdet",
+				"spotter/item-detail.html"
+			],
+			[
+				"placeshow",
+				"eathalal/app/views/places/show.html.slim"
+			],
+			[
+				"eatcus",
+				"eathalal/app/assets/javascripts/custom.js"
+			],
+			[
+				"place.",
+				"eathalal/app/models/place.rb"
+			],
+			[
+				"placco",
+				"eathalal/app/controllers/places_controller.rb"
+			],
+			[
+				"placecoff",
+				"eathalal/app/assets/javascripts/places.coffee"
+			],
+			[
+				"place.r",
+				"eathalal/app/models/place.rb"
+			],
+			[
+				"placenew",
+				"eathalal/app/views/places/new.html.slim"
+			],
+			[
+				"attacoff",
+				"hh/app/assets/javascripts/tasks/attachments.js.coffee"
+			],
+			[
+				"taskfor",
+				"hh/app/views/tasks/_task_form.html.slim"
+			],
+			[
+				"eatplacco",
+				"eathalal/app/assets/javascripts/places.coffee"
+			],
+			[
+				"attades",
+				"hh/app/views/attachments/destroy.js.erb"
+			],
+			[
+				"eatsty",
+				"eathalal/app/assets/stylesheets/style.css"
+			],
+			[
+				"placecss",
+				"eathalal/app/assets/stylesheets/places.scss"
+			],
+			[
+				"taskfo",
+				"hh/app/views/tasks/_task_form.html.slim"
+			],
+			[
+				"attacont",
+				"hh/app/controllers/attachments_controller.rb"
+			],
+			[
+				"eatrout",
+				"eathalal/config/routes.rb"
+			],
+			[
+				"docupl",
+				"bookkeeper/app/assets/javascripts/documents/upload.coffee"
+			],
+			[
+				"eatcust",
+				"eathalal/app/assets/javascripts/custom.js"
+			],
+			[
+				"eatred",
+				"eathalal/app/assets/stylesheets/red.scss"
+			],
+			[
+				"eatstyl",
+				"eathalal/app/assets/stylesheets/style.css"
+			],
+			[
+				"eatplnew",
+				"eathalal/app/views/places/new.html.slim"
+			],
+			[
+				"spottsub",
+				"spotter/submit_1.html"
+			],
+			[
+				"spotsub",
+				"spotter/submit.html"
+			],
+			[
+				"hhcoffee",
+				"hh/app/assets/javascripts/tasks/attachments.js.coffee"
+			],
+			[
+				"taskform",
+				"hh/app/views/tasks/_task_form.html.slim"
+			],
+			[
+				"hhnew",
+				"hh/app/views/tasks/new.html.slim"
+			],
+			[
+				"eatappco",
+				"eathalal/app/assets/javascripts/application.coffee"
+			],
+			[
+				"booappcof",
+				"bookkeeper/app/assets/javascripts/application.coffee"
+			],
+			[
+				"boogem",
+				"bookkeeper/Gemfile"
+			],
+			[
+				"deplo",
+				"propertymgmt/config/deploy.rb"
+			],
+			[
+				"propschem",
+				"propertymgmt/db/schema.rb"
+			],
+			[
+				"proptime",
+				"propertymgmt/config/initializers/date_time.rb"
+			],
+			[
+				"journal",
+				"propertymgmt/app/views/accounting/journal.html.slim"
+			],
+			[
+				"entr",
+				"propertymgmt/app/decorators/entry_decorator.rb"
+			],
+			[
+				"propseed",
+				"propertymgmt/db/seeds.rb"
+			],
+			[
+				"entrfor",
+				"propertymgmt/app/views/entries/_form.slim"
+			],
+			[
+				"propacc",
+				"propertymgmt/app/models/account.rb"
+			],
+			[
+				"propab",
+				"propertymgmt/app/models/ability.rb"
+			],
+			[
+				"entrco",
+				"propertymgmt/app/controllers/entries_controller.rb"
+			],
+			[
+				"dealapprb",
+				"dealflow/config/application.rb"
+			],
+			[
+				"propapprb",
+				"propertymgmt/config/application.rb"
+			],
+			[
+				"propprop",
+				"propertymgmt/config/propertymgmt.conf"
+			],
+			[
+				"propdepl",
+				"propertymgmt/config/deploy.rb"
+			],
+			[
+				"proprout",
+				"propertymgmt/config/routes.rb"
+			],
+			[
+				"propgem",
+				"propertymgmt/Gemfile"
+			],
+			[
+				"dealpassed",
+				"dealflow/app/views/devise/passwords/edit.html.slim"
+			],
+			[
+				"propappco",
+				"propertymgmt/app/controllers/application_controller.rb"
+			],
+			[
+				"proprou",
+				"propertymgmt/config/routes.rb"
+			],
+			[
+				"dealregnew",
+				"dealflow/app/views/devise/registrations/new.html.slim"
+			],
+			[
+				"dealpassnew",
+				"dealflow/app/views/devise/passwords/new.html.slim"
+			],
+			[
+				"deal",
+				"dealflow/config/dealflow.conf"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/Coding/rails.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 307.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"togg",
+				"toggle"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
