@@ -1,1 +1,0 @@
-!function(){window.pageReady(function(){var a=$("[data-slides]");a.slick({slide:"li",dots:!0,speed:400,fade:!1,arrows:!1,draggable:!0,autoplay:!1,autoplaySpeed:3e3})})}();
