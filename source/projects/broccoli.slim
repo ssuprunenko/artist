@@ -7,27 +7,33 @@ color: "#77a982"
 website_url: https://www.behance.net/gallery/24626777/Vegetables-illustrations
 ---
 
-/ Text
 = text_block do
   p
-    | В конце февраля 2015 года замечательный питерский художник <a href="http://lectoroom.ru/profile/show/id/54e31f93d1f7a3e121459e2c" target="_blank">Александр Вязьменский</a> проводил свой очередной мастер-класс по ботанической живописи в пространстве "Перспектива". Основной задачей было научиться максимально реалистично изображать ботанику.
+    | In the end of February 2015 a wonderful Saint Petersburg artist <a href="http://lectoroom.ru/profile/show/id/54e31f93d1f7a3e121459e2c" target="_blank">Alexander Viazmensky</a> made botanical painting workshop in the "Perspectiva" space. The main goal was to learn as much as possible realistically to represent botany.
+    /| В конце февраля 2015 года замечательный питерский художник <a href="http://lectoroom.ru/profile/show/id/54e31f93d1f7a3e121459e2c" target="_blank">Александр Вязьменский</a> проводил свой очередной мастер-класс по ботанической живописи в пространстве "Перспектива". Основной задачей было научиться максимально реалистично изображать ботанику.
 
   p
-    | Сначала мы рисовали цветные листья и трутовики, но потом мне захотелось бросить себе вызов и выбрать кое-что посложнее.
+    | We began the workshop by drawing colored leaves and polypore, but then I wanted to challenge yourself and choose something a little more complicated.
+    /| Сначала мы рисовали цветные листья и трутовики, но потом мне захотелось бросить себе вызов и выбрать кое-что посложнее.
 
-/ Split text + image – text on left (the default side)
 = split_block image: project_image_path('broccoli-1.jpg'), background: current_page.data.color, color: '#fff'
-  p Брокколи достаточно сложна для ботанической живописи. Никто кроме Александра не верил, что у меня получится.
+  p
+    | Broccoli is quite complicated for botanical painting. Nobody but Alexander didn't believe that I can do it.
+    /| Брокколи достаточно сложна для ботанической живописи. Никто кроме Александра не верил, что у меня получится.
 
 = text_block do
-  p We brought more content to the home page so that visitors would become more aware of the wealth of knowledge that existed on the site. We also worked with the team to streamline all of the navigation and content to present a much more intuitive and meaningful experience.
+  p
+    | I would like to draw the most realistic broccoli. It is useful to set such challenges. They train mindfulness and patience.
+    /| Я хотела изобразить брокколи максимально реалистично. Полезно ставить перед собой такие задачи. Они развивают внимательность и терпеливость.
 
-/ Split text + image – text on right
 = split_block image: project_image_path('broccoli-2.jpg'), background: current_page.data.color, color: '#fff', text_side: "right"
-  p The redesign took advantage of modern web technologies to create a responsive experience that could adapt to browser sizes on a multitude of devices.
+  p
+    | Step by step I was close to goal.
+    /| Шаг за шагом я приближалась к цели.
+
 
 = text_block do
-  p We brought more content to the home page so that visitors would become more aware of the wealth of knowledge that existed on the site. We also worked with the team to streamline all of the navigation and content to present a much more intuitive and meaningful experience.
+  h3 style="text-align: center; font-size: 1.5em;" Results
 
 / Slideshow
 = project_slideshow %w(broccoli-slide-1 broccoli-slide-2)

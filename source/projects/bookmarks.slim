@@ -4,21 +4,26 @@ date: 2015-09-30 10:00
 cover_header: true
 tagline: Hand Painted Watercolor Bookmarks for Kateberry
 color: "#bf5828"
-website_url: https://www.behance.net/gallery/24626777/Vegetables-illustrations
+website_url: ''
 ---
 
 = text_block do
   p
-    | Critique is important and I wouldn’t have it any other way. Although, this was quite problematic when I began my career as a print designer and everything that I designed was more permanent. As a web and product designer, I delight in the flexible and iterative qualities of the medium.
+    / | Специально для Кейтберри я создала набор ботанических иллюстраций для их осенней коллекции книжных закладок.
+    ' Specially for
+    a href="http://kateberry.ru/" Kateberry
+    |  I created a set of botanical illustrations for their autumn collection of bookmarks.
+
+h3 style="text-align: center; font-size: 1.5em;" Work in progress
+br
+br
 
 / Process
 = project_slideshow %w(bookmarks-process-1 bookmarks-process-2 bookmarks-process-3 bookmarks-process-4 bookmarks-process-5)
 
 = text_block do
-  p
-    | Critique is important and I wouldn’t have it any other way. Although, this was quite problematic when I began my career as a print designer and everything that I designed was more permanent. As a web and product designer, I delight in the flexible and iterative qualities of the medium.
-
-  = stretch_image project_image_path('final-work-1.jpg'), "Finished work", "Finished work"
+  = stretch_image project_image_path('final-work-1.jpg'), "Lemon and Physalis", "Lemon and Physalis"
+  = stretch_image project_image_path('final-work-2.jpg'), "Blueberries and Marigold", "Blueberries and Marigold"
 
 / In the park
 = project_slideshow %w(bookmarks-slide-1 bookmarks-slide-2 bookmarks-slide-3)
@@ -28,4 +33,4 @@ website_url: https://www.behance.net/gallery/24626777/Vegetables-illustrations
   = component "cta-button"
   br
   br
-  p You can also like this project on <a href="https://www.behance.net/gallery/24626777/Vegetables-illustrations" target="_blank">Behance</a>.
+  p You can also like this project on <a href="#" target="_blank">Behance</a>.

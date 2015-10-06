@@ -76,16 +76,17 @@
     width: auto;
     max-width: 100%;
     height: auto;
-    margin: 1em auto;
+    margin: 1em auto 0;
   }
 
   figure figcaption {
-    $font-size: 0.625em;
+    $font-size: 0.725em;
     padding: 0 #{($page-gutter / $font-size)}em;
     color: $grey;
     font-family: $typeface-sans;
     font-size: $font-size;
     line-height: 1.75;
+    text-align: center;
 
     a {
       color: $pink;

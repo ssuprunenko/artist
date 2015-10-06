@@ -1,12 +1,10 @@
 module PageHelper
-
   def site_description
     error_msg = "Site description is missing: add a `description` field in `data/site.yml`"
     data.site.description || (raise error_msg)
   end
 
   def page_url(page = current_page)
-    # "http://lacroixdesign.fwd.wf" + page.url
     data.site.host + page.url
   end
 
@@ -22,10 +20,6 @@ module PageHelper
   end
 
   def page_browser_title(page = current_page)
-    # TODO:
-    #   - require #title
-    #   - check for pagination
-    #   - add context separated by hyphen? => Blog, Case Studies, Team
     prefix = "#{page_long_title} | " if page_long_title
     suffix = data.site.title
     unless data.site.title
@@ -41,12 +35,6 @@ module PageHelper
   def page_image(page = current_page)
     image = page.data.image
     if image
-      # prefix = if page.respond_to?(:blog_data)
-      #   page.blog_data.options.prefix.gsub(/\//, '')
-      # else
-      #   "pages"
-      # end
-      # image_path "#{prefix}/#{page.slug}/#{image}"
       path = page.url.split("/").reject(&:empty?).join("/")
       image_path("#{path}/#{image}")
     elsif is_project(page)
@@ -55,16 +43,12 @@ module PageHelper
   end
 
   def page_social_image(page = current_page)
-    # TODO check for 'social_image' property
     if page_image
       page_image
-    else
-      image_path("social/lacroixdesignco.jpg")
     end
   end
 
   def page_author(page = current_page)
-    # TODO require TeamHelper?
     if page.data.author
       return find_team_member_by_name(page.data.author)
     end
@@ -81,7 +65,7 @@ module PageHelper
     "website"
   end
 
-private
+  private
 
   def is_blog_post(page)
     page.respond_to?(:blog_data) && page.blog_options.name == "blog"
@@ -90,5 +74,4 @@ private
   def is_project(page)
     page.respond_to?(:blog_data) && page.blog_options.name == "projects"
   end
-
 end
