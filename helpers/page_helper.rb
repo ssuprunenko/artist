@@ -46,7 +46,7 @@ module PageHelper
     if page_image
       page_image
     else
-      image_path("social/promo.png")
+      image_path("social/promo.jpg")
     end
   end
 
