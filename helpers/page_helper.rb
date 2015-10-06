@@ -45,6 +45,8 @@ module PageHelper
   def page_social_image(page = current_page)
     if page_image
       page_image
+    else
+      image_path("social/promo.png")
     end
   end
 

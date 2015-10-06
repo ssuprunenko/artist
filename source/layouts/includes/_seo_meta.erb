@@ -14,7 +14,12 @@
   <meta property="article:author" content="<%= page_author.facebook %>">
 <% end %>
 
+<% if page_image %>
+  <meta name="twitter:image:src" content="<%= page_social_image %>">
+<% end %>
+
 <%# Google authorship %>
 <% if page_author %>
   <link rel="author" href="https://plus.google.com/<%= page_author.google_plus_id %>"></link>
 <% end %>
+
