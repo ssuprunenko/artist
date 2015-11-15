@@ -18,6 +18,10 @@
       variableWidth: true
     });
 
+    $slideshow.slickLightbox({
+      background: 'rgba(0,0,0)',
+      src: 'src',
+      itemSelector: 'li img'
+    });
   });
-
 })();
