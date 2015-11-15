@@ -30,6 +30,14 @@
   }
 } // .s-project .b-text-component
 
+.no-top-space .b-text-component {
+  padding-top: 0;
+
+  .image-stretch-wrap, img {
+    margin-top: 0;
+  }
+}
+
 /*
 * ------------------------------------------------
 * Split component

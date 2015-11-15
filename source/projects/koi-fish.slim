@@ -5,3 +5,23 @@ cover_header: true
 tagline: Watercolor Koi Fish Illustrations for Textile Pattern
 color: "#4796e9"
 ---
+
+= text_block do
+  p
+    | I was inspired by quiet koi ponds in the various gardens of Central Europe. I made design that is perfect for women who aims to be elegant and trendy.
+
+.no-top-space
+  = text_block do
+    = stretch_image project_image_path('final-work-1.jpg'), "", ""
+    = stretch_image project_image_path('final-work-2.jpg'), "", ""
+
+/ In the park
+= project_slideshow %w(koi-slide-1 koi-slide-2 koi-slide-3 \
+                       koi-slide-4 koi-slide-5 koi-slide-6)
+
+= text_block callout: true
+  p Looking for professional to create unique hand-drawn illustrations?
+  = component "cta-button"
+  br
+  br
+  p This project is available for sale on <a href="https://creativemarket.com/annasuprunenko/430702-Watercolor-Koi-Fish" target="_blank">Creative Market</a>.
