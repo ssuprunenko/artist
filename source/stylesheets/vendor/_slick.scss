@@ -106,6 +106,8 @@ $slick-dot-character: '\2022' !default;
   img {
     margin: 0 10px;
     display: block;
+    max-height: 600px;
+    width: auto;
   }
 
   &:focus {
@@ -272,3 +274,10 @@ $slick-dot-character: '\2022' !default;
     }
   } // media-ie-only
 } // .slick-dots
+
+
+.slick-lightbox {
+  button {
+    display: none !important;
+  }
+}
