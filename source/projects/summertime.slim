@@ -1,0 +1,27 @@
+---
+title: Summertime Dream
+date: 2015-12-16 10:00
+cover_header: true
+tagline: Bright summer pattern with hand drawn watercolor flowers
+color: "#ff5162"
+---
+
+= text_block do
+  p
+    | Winner of the international textile design contest. I used my unfinished drawings to produce this fresh high-colored textile pattern.
+
+= project_slideshow %w(summertime-slide-1 summertime-slide-2 summertime-slide-3)
+
+= text_block do
+  h3 style="text-align: center; font-size: 1.5em; margin-bottom: 60px;" Work in progress
+  = stretch_image project_image_path('summertime-1.jpg'), "", ""
+  = stretch_image project_image_path('summertime-2.jpg'), "", ""
+
+= project_slideshow %w(summertime-slide-4 summertime-slide-5 summertime-slide-6)
+
+= text_block callout: true
+  p Looking for professional to create unique hand-drawn illustrations?
+  = component "cta-button"
+  br
+  br
+  p You can also like this project on <a href="https://www.behance.net/gallery/30111219/Bookmarks" target="_blank">Behance</a>.
