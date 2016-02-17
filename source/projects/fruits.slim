@@ -1,0 +1,35 @@
+---
+title: Fruits
+date: 2016-02-17 10:00
+cover_header: true
+tagline: Various Fruits Illustrations
+color: "#6d405f"
+website_url: https://www.behance.net/gallery/34106200/Fruits
+---
+
+= text_block do
+  p
+    | Here are some of my watercolor illustrations of fruits.
+
+h3 style="text-align: center; font-size: 1.5em;" Work in progress
+br
+br
+
+= project_slideshow %w(wip-apple-slide wip-plums-slide wip-grape-slide)
+
+= text_block do
+  = stretch_image project_image_path('final-work-plums.jpg'), "Red Plums", "Red Plums"
+  = stretch_image project_image_path('final-work-grape.jpg'), "The Grape", "The Grape"
+  = stretch_image project_image_path('final-work-apple.jpg'), "The Apple", "The Apple"
+  = stretch_image project_image_path('final-work-pineapple.jpg'), "The Pineapple", "The Pineapple"
+  br
+  br
+  br
+  = stretch_image project_image_path('final-work-plums-grape.jpg'), "", ""
+
+  = text_block callout: true
+    p Looking for professional to create unique hand-drawn illustrations?
+    = component "cta-button"
+    br
+    br
+    p You can also like this project on <a href="https://www.behance.net/gallery/34106200/Fruits" target="_blank">Behance</a>.
