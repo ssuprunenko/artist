@@ -1,0 +1,37 @@
+---
+title: Forest Charm
+date: 2016-02-23 10:00
+cover_header: true
+tagline: Forest Plants Illustrations
+color: "#942f28"
+website_url: 'https://www.behance.net/gallery/30111219/Bookmarks'
+---
+
+= text_block do
+  p
+    | Forests and parks is an infinite source of inspiration for me.
+
+h3 style="text-align: center; font-size: 1.5em;" Work in progress
+br
+br
+
+= project_slideshow %w(cowberry-1-slide cowberry-2-slide cowberry-3-slide)
+br
+br
+br
+= project_slideshow %w(wip-leaf-1 wip-polypore-slide wip-wood-slide)
+
+= text_block do
+  = stretch_image project_image_path('final-work-mushroom.jpg'), "Orange-cap Boletus", "Orange-cap Boletus"
+  = stretch_image project_image_path('final-work-cowberry.jpg'), "Cowberry", "Cowberry"
+  = stretch_image project_image_path('final-work-rose-hip.jpg'), "Rose hip", "Rose hip"
+  = stretch_image project_image_path('final-work-wood.jpg'), "Bark", "Bark"
+  = stretch_image project_image_path('final-work-polypore.jpg'), "Polypore", "Polypore"
+  = stretch_image project_image_path('final-work-leaf.jpg'), "Leaves", "Leaves"
+
+= text_block callout: true
+  p Looking for professional to create unique hand-drawn illustrations?
+  = component "cta-button"
+  br
+  br
+  p You can also like this project on <a href="#" target="_blank">Behance</a>.
